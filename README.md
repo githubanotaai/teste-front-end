@@ -5,17 +5,17 @@ knowledge. You will have 6 hours to complete the challenge.
 
 <strong>Prerequisites:</strong>
 
-● Use a SPA framework/library of your choice (Angular 2+, React or Vuejs) that
+- Use a SPA framework/library of your choice (Angular 2+, React or Vuejs) that
 you will need to have already installed with its dependencies.
 Notes
-● You can use a complementary framework/library (bootstrap, angular material,
+- You can use a complementary framework/library (bootstrap, angular material,
 etc.) for handling the style of the page and listing the data. Or if you prefer, you
 can use only CSS, which is good.
-● We will be happy if you use design patterns in your project. But this is optional.
-● Don't be alarmed, we don't expect everyone to be able to complete all the tasks,
+- We will be happy if you use design patterns in your project. But this is optional.
+- Don't be alarmed, we don't expect everyone to be able to complete all the tasks,
 this test is the same one presented for candidates of all experience levels, so do
 what you can without worrying.
-● Instructions on how to send the test are at the end of this file.
+- Instructions on how to send the test are at the end of this file.
 The Challenge
 Your challenge is to create a digital menu using a SPA framework. For this, we provide
 you with some HTML and CSS files with a very simple basic structure of the page that
