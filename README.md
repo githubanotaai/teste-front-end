@@ -50,7 +50,7 @@ data is lost when the page is reloaded.
 
 <strong>Instructions</strong>
 
-To start the test, fork this repository, create a branch with its full name and then send us the pull request. If you just clone the repository you will not be able to push and then it will be more complicated to make the pull request. The choice of libraries, databases, architecture, etc. is at your discretion.
+To start the test, <strong>fork</strong> this repository, create a branch with its full name and then send us the link to the test performed (link to your repository). If you just clone the repository you will not be able to push and then it will be more complicated to make the pull request. The choice of libraries, databases, architecture, etc. is at your discretion.
 Change the README file explaining what it takes to run your application.
 Paste the branch name into the GUPY system and indicate the completion of the test
 If you want you can leave us feedback regarding the test
